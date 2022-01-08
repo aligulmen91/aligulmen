@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Gülmen</h1>
 <h3 align="center">Control Systems Engineer | Full Stack .Net Developer</h3>
 
-<p align="center"><img width=350 height=350 src="https://github.com/aligulmen91/aligulmen/blob/main/blob/vcs.svg" alt="ali-gulmen" /></p>
+<p align="center">
+     <a href="#">
+    <img width=350 height=350 src="https://github.com/aligulmen91/aligulmen/blob/main/blob/vcs.svg" alt="ali-gulmen" />
+    </a>
+         </p>
 
 <h2 align="center">What I've Done Until Now</h2>
 <br>
@@ -23,26 +27,26 @@
 <h2 align="center"> We Can Talk About</h2>
 <br>
 <p align="center">
-    <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/csharp.svg" />&nbsp;
-    <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/dotnet.svg" />&nbsp;
-      <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/nodejs.svg" />&nbsp;
-        <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/npm.svg" />&nbsp;
+     <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/csharp.svg" /></a>&nbsp;
+     <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/dotnet.svg" /></a>&nbsp;
+     <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/nodejs.svg" /></a>&nbsp;
+     <a href="#"> <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/npm.svg" /></a>&nbsp;
 
 <br>
-      <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/html5.svg" />&nbsp;
-    <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/javascript.svg" />&nbsp;
-    <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/css3.svg" />&nbsp;
-    <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/bootstrap.svg" />&nbsp;
-    <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/jquery.svg" />&nbsp;
-    <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/json.svg" />&nbsp;
+    <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/html5.svg" />&nbsp;
+    <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/javascript.svg" /></a>&nbsp;
+    <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/css3.svg" /></a>&nbsp;
+    <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/bootstrap.svg" /></a>&nbsp;
+    <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/jquery.svg" /></a>&nbsp;
+    <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/json.svg" /></a>&nbsp;
   <br>
-    <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/vscode.svg" />&nbsp;
-    <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/vs.svg" />&nbsp;
-        <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/git.svg" />&nbsp;
+    <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/vscode.svg" /></a>&nbsp;
+    <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/vs.svg" /></a>&nbsp;
+    <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/git.svg" /></a>&nbsp;
 <br>
-    <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/mysql.svg" />&nbsp;
-    <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/mongodb.svg" />&nbsp;
-    <img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/sqllite.svg" />&nbsp;
+    <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/mysql.svg" /></a>&nbsp;
+    <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/mongodb.svg" /></a>&nbsp;
+    <a href="#"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/sqllite.svg" /></a>&nbsp;
 
 </p>
 
@@ -59,16 +63,19 @@
 <h2 align="center">Where You Can Find Me</h2>
 <br>
 <p align="center">
-    <a href="mailto:aligulmen91@gmail.com" target=”_blank”><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/gmail.svg" /></a>
-    <a href="https://www.linkedin.com/in/ali-gulmen" target=”_blank”><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/linkedin.svg" /></a>
-    <a href="https://www.twitter.com/aaaglmn" target=”_blank”><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/twitter.svg" /></a>
-    <a href="https://www.hackerrank.com/aligulmen91" target=”_blank”><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/hackerrank.svg" /></a>
-    <a href="https://www.upwork.com/freelancers/~01ee5f78c917a4c4d3" target=”_blank”><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/upwork.svg" /></a>
+    <a href="mailto:aligulmen91@gmail.com"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/gmail.svg" /></a>
+    <a href="https://www.linkedin.com/in/ali-gulmen"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/linkedin.svg" /></a>
+    <a href="https://www.twitter.com/aaaglmn"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/twitter.svg" /></a>
+    <a href="https://www.hackerrank.com/aligulmen91"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/hackerrank.svg" /></a>
+    <a href="https://www.upwork.com/freelancers/~01ee5f78c917a4c4d3"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/upwork.svg" /></a>
  </p>
 <br>
 
 <br>
-<p align="center"><img width=300 height=300 src="https://github.com/aligulmen91/aligulmen/blob/main/blob/aligulmen.gif" alt="ali-gulmen" /></p>
+<p align="center">
+    <a href="#">
+    <img width=300 height=300 src="https://github.com/aligulmen91/aligulmen/blob/main/blob/aligulmen.gif" alt="ali-gulmen" />
+    </a></p>
 <br>
 <p align="center">Or might be working somewhere around the world!</p>
 
