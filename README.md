@@ -60,7 +60,7 @@
 
 
 <br>
-<h2 align="center">Where You Can Find Me</h2>
+<h2 align="center">You Can Find Me on</h2>
 <br>
 <p align="center">
     <a href="mailto:aligulmen91@gmail.com"><img src="https://github.com/aligulmen91/aligulmen/blob/main/blob/gmail.svg" /></a>
