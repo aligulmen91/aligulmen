@@ -10,6 +10,16 @@
 <h2 align="center">What I've Done Until Now</h2>
 <br>
 
+| UNLU & CO | 01/2022 - ... |
+|:---------:|:----------------------------------:|
+| Software developer | <ul><li align="left">.Net Backend Development (.Net framework/ .Net Core)</li><li align="left">Blazor projects</li><li align="left">Hands on development experience </li><li align="left">Experience in IMDG technologies such as Hazelcast</li><li align="left">Reporting projects with Telerik UI & DevExpress components</li><li align="left">Troubleshooting on existing projects</li><li align="left">Entity Framework Core tools experience</li></ul> |
+
+
+<br>
+<h3 align="center">... earlier ...</h3>
+
+<br>
+
 | Mecalux SA. | 02/2017 - 11/2021 |
 |:---------:|:----------------------------------:|
 | After Sale Responsible | <ul><li align="left">Technical support regarding the overall automated logistics solution of Warehouse Control System</li><li align="left">Continuous improvement </li><li align="left">Providing training to maintenance colleagues on the site</li></ul> |
